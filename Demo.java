@@ -10,7 +10,8 @@ public class Demo {
         System.out.println(myObj2.x);
         System.out.println(myObj2.x);
         System.out.println(myObj2.l);
-        System.out.println("manisha");
+        System.out.println("lali");
+        System.out.println("lak");
         System.out.println("demo");
     }
 

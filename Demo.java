@@ -1,5 +1,5 @@
 public class Demo {
-    int x = 5;
+    int x = 4;
 
     public static void main(String[] args) {
         Main myObj1 = new Main();  // Object 1

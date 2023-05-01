@@ -7,7 +7,6 @@ public class Demo {
         System.out.println(myObj1.y);
         System.out.println(myObj2.x);
         System.out.println(myObj2.x);
-        System.out.println(myObj2.l);
     }
 
 }

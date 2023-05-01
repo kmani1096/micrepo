@@ -8,7 +8,6 @@ public class Demo {
         System.out.println("hfh");
         System.out.println("demo");
         System.out.println("demo");
-        System.out.println("demo");
     }
 
 }

@@ -7,7 +7,6 @@ public class Demo {
         System.out.println("lali");
         System.out.println("hfh");
         System.out.println("demo");
-        System.out.println("demo");
     }
 
 }

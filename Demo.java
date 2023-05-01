@@ -11,8 +11,9 @@ public class Demo {
         System.out.println(myObj2.x);
         System.out.println(myObj2.l);
         System.out.println("lali");
-        System.out.println("laksdf");
+        System.out.println("hfh");
         System.out.println("demo");
+        System.out.println("dem87");
     }
 
 }
